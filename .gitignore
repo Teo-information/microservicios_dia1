@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+
+# Node/Frontend
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+
+# Docker
+*.log
+.pgdata/
